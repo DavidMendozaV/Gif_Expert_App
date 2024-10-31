@@ -1,4 +1,4 @@
 # Gif_Expert_App
-Página web hecha en React que permite buscar distintos gifs.
+Gif Expert App es una aplicación web construida en React que permite a los usuarios buscar y visualizar GIFs de manera sencilla y rápida. La aplicación cuenta con un campo de entrada donde se puede escribir cualquier tema o palabra clave. Al introducir un término, Gif Expert App se conecta automáticamente con la API de desarrolladores de Giphy, uno de los repositorios más amplios de GIFs en internet, y extrae una selección de GIFs relacionados con el tema ingresado. Esta integración con la API de Giphy permite que la aplicación proporcione una experiencia dinámica y actualizada, mostrando contenido visual relevante en tiempo real. El propósito de Gif Expert App es brindar una herramienta práctica y divertida para explorar GIFs de todo tipo, permitiendo a los usuarios encontrar y disfrutar de contenido visual en función de sus intereses y curiosidades.
 
 ![image](https://github.com/user-attachments/assets/cee7c05d-72ed-4a25-90d7-2ac0ae509df3)
